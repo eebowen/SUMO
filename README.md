@@ -1,5 +1,8 @@
 # SUMO
 
+More instructions at here:
+[Notion](https://luxuriant-shoulder-522.notion.site/SUMO-741e2017f4d04560a0279fe24dc47b53?pvs=4)
+
 ## 1. Download the map
 
 go to `/SUMO_HOME/tools`
