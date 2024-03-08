@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<routes>
+    <vType id="veh_passenger" vClass="passenger" />
+    <trip id="19d26bbc-05da-4564-9e4a-8f330ecedc8a" type="veh_passenger" depart="0.00" departLane="best" fromLonLat="-122.402758,37.774416" toLonLat="-122.473025,37.77973" />
+    <trip id="15a26312-4d07-4d65-8bd3-ca8d4cd44065" type="veh_passenger" depart="0.00" departLane="best" fromLonLat="-122.473025,37.77973" toLonLat="-122.455465,37.768108" />
+    <trip id="c54973ae-c1c9-421a-8236-21e17fec565c" type="veh_passenger" depart="0.00" departLane="best" fromLonLat="-122.455465,37.768108" toLonLat="-122.45517,37.768165" />
+</routes>

@@ -1,0 +1,74 @@
+{
+    "schema_version": "1.2.0",
+    "schema_type": "HAS",
+    "objective": "0a4e2b81-9dc5-802a-d184-18e8f03087a9",
+    "movements": [
+        {
+            "agent": 11585,
+            "itineraries": [
+                {
+                    "itinerary": [
+                        {
+                            "start": {
+                                "instruction_uid": "0ba815b5-c06f-4ebb-8662-3641b58a7ba6",
+                                "point": {
+                                    "type": "Point",
+                                    "coordinates": [
+                                        -122.402758,
+                                        37.774416
+                                    ]
+                                },
+                                "timestamp": "2019-09-14T13:00:00Z"
+                            }
+                        },
+                        {
+                            "move": {
+                                "transportation_mode": "personal_vehicle",
+                                "instruction_uid": "19d26bbc-05da-4564-9e4a-8f330ecedc8a",
+                                "location": {
+                                    "type": "Point",
+                                    "coordinates": [
+                                        -122.473025,
+                                        37.77973
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "stay": {
+                                "instruction_uid": "1ef53f6f-2096-4822-bf54-ace8c0dea530",
+                                "duration": "P0DT1H0M0S"
+                            }
+                        },
+                        {
+                            "move": {
+                                "transportation_mode": "personal_vehicle",
+                                "instruction_uid": "15a26312-4d07-4d65-8bd3-ca8d4cd44065",
+                                "location": {
+                                    "type": "Point",
+                                    "coordinates": [
+                                        -122.455465,
+                                        37.768108
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "stop": {
+                                "instruction_uid": "c54973ae-c1c9-421a-8236-21e17fec565c",
+                                "timestamp": "2019-09-14T21:30:00Z",
+                                "point": {
+                                    "type": "Point",
+                                    "coordinates": [
+                                        -122.45517,
+                                        37.768165
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

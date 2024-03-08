@@ -1,0 +1,9 @@
+<configuration>
+    <input>
+        <net-file value="l3harris.net.xml.gz"/>
+        <route-files value="has_0a4e2b81-9dc5-802a-d184-18e8f03087a9_duarouter_input.rou.xml"/>
+    </input>
+    <gui_only>
+        <start value="false"/>
+    </gui_only>
+</configuration>
