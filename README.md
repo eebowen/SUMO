@@ -1,8 +1,5 @@
 # SUMO
 
-Parent item: Haystac (https://www.notion.so/Haystac-8d1906b2dd67440d8791b55ccc73aef9?pvs=21)
-Status: Not started
-
 ## 1. Download the map
 
 go to `/SUMO_HOME/tools`
