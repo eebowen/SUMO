@@ -46,7 +46,7 @@ netconvert --osm-files road.osm -o baseline.net.xml
 
 ## 4. Add waypoints (Optional):
 
-[https://sumo.dlr.de/docs/Definition_of_Vehicles,_Vehicle_Types,_and_Routes.html#stops_and_waypoints](https://sumo.dlr.de/docs/Definition_of_Vehicles,_Vehicle_Types,_and_Routes.html#stops_and_waypoints)
+[Waypoint Doc](https://sumo.dlr.de/docs/Definition_of_Vehicles,_Vehicle_Types,_and_Routes.html#stops_and_waypoints)
 
 ```xml
 <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
